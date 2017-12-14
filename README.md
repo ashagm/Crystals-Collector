@@ -2,6 +2,8 @@
 
 Interactive game using HTML5, CSS3 and Jquery
 
+[click here to view](https://ashagm.github.io/Crystals_Collector/)
+
 
 * There will be four crystals displayed.
 
